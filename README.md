@@ -10,6 +10,6 @@
 <style>
 .test{
 height: 50px;
-width: 75px;
+width: 125px;
 }
 </style>
