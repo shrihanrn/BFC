@@ -1,7 +1,7 @@
 # Bball (imma change this later)
-## Get good in Basketball in a matter of minutes!
+## Learn in Basketball in a matter of minutes!
 
-<button class="test" name="button" onclick="http://www.google.com"><strong>Sign up!</strong></button> 
+<button class="test" name="button" onclick="https://docs.google.com/forms/d/15KhCrgdcIXSVETZGbkoWMcW_ad6thq_PmM_eRw2f2vI/prefill"><strong>Sign up!</strong></button> 
 
 ### Are you new to the game of basketball? You can create a **free** account and run through the different levels here and improve your understanding of how the game works. Start by clicking the _Sign up_ button (it'll take you to another page)!
 
