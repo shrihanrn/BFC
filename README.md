@@ -7,6 +7,11 @@
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/e/eb/Basketball_Court_Dimensions.jpg)
 
+if(document.getElementById('button').clicked == true)
+{
+   alert("button was clicked");
+}
+
 <style>
 .test{
 height: 50px;
