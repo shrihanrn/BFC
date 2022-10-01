@@ -1,2 +1,2 @@
 
-<a href="/.pages/.about.md"><button>Go To Login</button></a>
+<a href="pages/about.md"><button>Go To Login</button></a>
