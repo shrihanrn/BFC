@@ -1,5 +1,5 @@
-# Bball (imma change this later)
-## Learn in Basketball in a matter of minutes!
+#  Basketball
+## Learn Basketball in a matter of minutes!
 
 <button class="test" name="button" onclick= "window.open('https://docs.google.com/forms/d/e/1FAIpQLSdO_Pl9aSc0tUUJ2ySmfwTLYWnOZPAWKxUr3Csm1sp4hJHWDQ/viewform?usp=sf_link','_blank')"><strong>Sign up!</strong></button> 
 
