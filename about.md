@@ -3,7 +3,6 @@
 &nbsp; &nbsp;[**Players**](players.md)
 
 # About
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg" alt="bball"></img>
 > Basketball has a long and extensive history, and has some info in its rule book. 
 >>**The National Basketball Association (NBA)** is a basketball league that contains players from all over the world.
 >>> This league has two divisions, the *East* and *West* Conference. Each Conference has **15** teams, for a total of thirty teams across the whole league. 
