@@ -1,7 +1,8 @@
 
-[About](about.md) 
-&nbsp; &nbsp;[Positions](positions.md)
-&nbsp; &nbsp;[Players](players.md)
+[**About**](about.md) 
+&nbsp; &nbsp;[**Positions**](positions.md)
+&nbsp; &nbsp;[**Players**](players.md)
+
 
 # Basketball
 > ### Do you want to learn about the art of basketball and gain substantial knowledge on its history? You've come to the right place. This site has easy and accessible information for you, so feel free to read anything we've got. Enjoy!
