@@ -2,7 +2,7 @@
 &nbsp; &nbsp;[**Players**](players.md)
 &nbsp; &nbsp;[**About**](about.md)
 # Positions
-![image](https://upload.wikimedia.org/wikipedia/commons/1/19/ZONE3-2.jpg "image")
+
 > There are 5 positions in basketball:
 > > - Point Guard
 > > - Shooting Guard
