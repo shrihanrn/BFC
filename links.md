@@ -1,6 +1,6 @@
 [**Home**](README.md) 
 &nbsp; &nbsp;[**Positions**](positions.md)
-&nbsp; &nbsp;[**Links**](links.md)
+&nbsp; &nbsp;[**About**](about.md)
 
 # Here are some more links for you to learn more information about Basketball:
 > - [**Link to Official NBA Website**](https://www.nba.com)
