@@ -1,6 +1,6 @@
 [**Home**](README.md) 
 &nbsp; &nbsp;[**Positions**](positions.md)
-&nbsp; &nbsp;[**Players**](players.md)
+&nbsp; &nbsp;[**Links**](links.md)
 
 # About
 ![image](https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg "image")
