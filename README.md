@@ -1,7 +1,7 @@
 
 [**About**](about.md) 
 &nbsp; &nbsp;[**Positions**](positions.md)
-&nbsp; &nbsp;[**Players**](players.md)
+&nbsp; &nbsp;[**Links**](links.md)
 
 
 # B-ball For Dummies
